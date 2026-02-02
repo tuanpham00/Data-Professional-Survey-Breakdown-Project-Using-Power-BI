@@ -1,4 +1,4 @@
-# Data-Professional-Survey-Breakdown-Project-Using-Power-BI
+# Data Professional Survey Breakdown Project Using Power BI
 # Overview
 This project involves analyzing and visualizing the results of a professional survey.
 # Objectives
